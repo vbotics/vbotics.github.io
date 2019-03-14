@@ -7,9 +7,9 @@ url: "https://vbotics.github.io"
 title_description: "PhD Research Candidate, University of Groningen"
 title_image: "https://s.gravatar.com/avatar/e8359f13ae38572bdef4baf81262ad62?s=500&d=mm"
 google_analytics: "UA-48718787-1"
-disqus_account: "vishal_r"
+disqus_account: vishal_r
 github_repository: https://github.com/vbotics/vbotics.github.io
-addthis_id: "ra-5c897a441c906727"
+addthis_id: ra-5c897a441c906727
 post_limit: 5
 
 # Social usernames/URLs
@@ -18,7 +18,7 @@ github_username:  vbotics
 instagram_username: vishal.raveendranathan
 reddit_username: 
 linkedin_link: https://www.linkedin.com/in/vishalraveendranathan/
-#google_plus_link: http://carte-noire.jacobtomlinson.co.uk/
+google_plus_link:
 stackoverflow_link: https://stackexchange.com/users/5529681/vishal-r
 xing_link:
 facebook_link: https://www.facebook.com/vishal.raveendranathan
