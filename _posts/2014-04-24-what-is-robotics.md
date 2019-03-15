@@ -16,6 +16,7 @@ When we hear the word “robot” the first thing which pops up in our mind is a
 Here is my definition: “Robots are assistants/helpers!” If you write this for an exam I am pretty sure you will rock in that paper 😀 You’ll be getting a special award for it. Dear friends, yes robots are mere helpers which on providing a certain information and instructions it can perform its action. It is not necessary that they have limbs and head! (please do not think a robot as shown in the movies) Robots may even have wheels, no limbs, no head, and even no physical structure at all. Robots can just be a single line of code! Yes, it is true. There are robots everywhere in our surrounding. Almost all the gadgets which we use today are robots of a kind. The thing is you need to understand is they are helpers!
 
 ![Issac Asimov](https://i.ibb.co/Zh1Xmmm/rsz-isaac-asimov.png)
+*Issac Asimov*
 
 The study of robots is called robotics. This may deal with any of the robots which I mentioned above. The conventional thinking of what a robot needs to be changed. This is creating restrictions in the field of robotics. People hardly imagine a robot of different kind. For your information, the robot which looks similar to a human being or human-like robots are called humanoid robots. And the construction of a humanoid robot is a mammoth task.
 
